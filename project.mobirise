@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "page5.html",
+    "name": "szachsowa.pl",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,8 +49,8 @@
     "versionPublish": "5.8.14",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "hmmh6hnsro",
+    "favicon": "@PROJECT_PATH@/assets/images/szkoa-szachowa-jdrzej-sowa-due-kopia-128x131.png",
+    "mbrsiteDomain": "zthbhif53f",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -63,11 +63,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Innowacyjne szachy dla dzieci z językiem angielskim - Szkoła Szachowa Jędrzej Sowa",
+        "meta_descr": "Jesteśmy, jako Polacy, świetni w szkoleniu szachowych arcymistrzów. Bardzo dobrze także uczymy podstaw gry w szachy, co widać po tym, że prawie każda rodzina ma swojego szachowego \"króla\" - najczęściej jest nim dziadek. To, w czym jesteśmy najsłabsi, to wykrywanie szachowych talentów. Środkowy etap edukacji szachowej. Moją misją jest załatanie tej luki. Czynię to nie tylko poprzez edukację, ale przede wszystkim poprzez zaszczepianie w uczniach pasji do gry królewskiej.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpeg"
       },
       "components": [
         {
