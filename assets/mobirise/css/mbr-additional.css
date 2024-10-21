@@ -4123,6 +4123,24 @@ a {
 .cid-tIuh38jHfj .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-urPYV3Mt71 {
+  background-image: url("../../../assets/images/1920x810-1-1920x810.jpg");
+}
+.cid-urPYV3Mt71 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-urPYV3Mt71 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-urPYV3Mt71 .mbr-section-title {
+  text-align: left;
+}
 .cid-tJe6k3yeTH {
   background-image: url("../../../assets/images/8-dabrowka3-1800x1012.jpg");
 }
@@ -4137,6 +4155,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tJe6k3yeTH .mbr-section-title {
+  text-align: left;
 }
 .cid-tJe6kwX259 {
   background-image: url("../../../assets/images/mbr-1920x1097.jpg");
@@ -4541,7 +4562,7 @@ a {
   }
 }
 .cid-tJe6myZCI9 {
-  background-image: url("../../../assets/images/harmonia-szkola-podstawowa-i-liceum-romka-strzalkowskiego-akacjowa-suchy-las-fb-900x525.png");
+  background-image: url("../../../assets/images/2019-08-2-680x510.jpg");
 }
 .cid-tJe6myZCI9 .mbr-fallback-image.disabled {
   display: none;
@@ -4586,12 +4607,27 @@ a {
   top: 0;
 }
 .cid-tVxg5hijjT {
-  background-image: url("../../../assets/images/376373482-283268844419091-8896849964226012546-n-e1694012155907-768x484.jpg");
+  background-image: url("../../../assets/images/20230415-130655-680x382.jpg");
 }
 .cid-tVxg5hijjT .mbr-fallback-image.disabled {
   display: none;
 }
 .cid-tVxg5hijjT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-urPYTbErM1 {
+  background-image: url("../../../assets/images/przedszkole-02-680x382.jpg");
+}
+.cid-urPYTbErM1 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-urPYTbErM1 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
